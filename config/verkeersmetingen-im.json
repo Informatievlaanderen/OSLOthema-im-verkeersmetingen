@@ -1,9 +1,9 @@
 [
 {
   "name": "Verkeersmetingen-im",
-  "type": "im",
+  "type": "ap",
   "eap": "Verkeersmetingen-IM.eap",
-  "diagram": "MijnApplicatieprofiel",
+  "diagram": "VSDS-Verkeerstelling",
   "template": "mijn-implementatiemodel-im.j2",
   "title": "Implementatiemodel Verkeersmetingen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
