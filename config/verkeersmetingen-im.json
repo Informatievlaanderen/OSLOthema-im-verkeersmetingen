@@ -11,7 +11,7 @@
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Verkeersmetingen",
-  "site": "site-skeleton/Verkeersmetingen-im",
+  "site": "site-skeleton/verkeersmetingen-im",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen/issues",
   "standaardregisterurl": ""
 }
