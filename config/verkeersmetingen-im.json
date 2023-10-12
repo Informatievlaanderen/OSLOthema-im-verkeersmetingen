@@ -20,7 +20,7 @@
   "type": "voc",
   "eap": "Verkeersmetingen-IM.eap",
   "diagram": "VSDS-Verkeersmetingen",
-  "template": "voc-im-verkeersmetingen.j2.j2",
+  "template": "voc-im-verkeersmetingen.j2",
   "title": "Vocabularium Implementatiemodel Verkeersmetingen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2023-09-27",
