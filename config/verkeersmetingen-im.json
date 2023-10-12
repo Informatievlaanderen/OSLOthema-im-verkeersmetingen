@@ -14,5 +14,21 @@
   "site": "site-skeleton/verkeersmetingen-im",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+},
+  {
+  "name": "Verkeersmetingen-im-voc",
+  "type": "voc",
+  "eap": "Verkeersmetingen-IM.eap",
+  "diagram": "VSDS-Verkeersmetingen",
+  "template": "voc-im-verkeersmetingen.j2.j2",
+  "title": "Vocabularium Implementatiemodel Verkeersmetingen",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2023-09-27",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Verkeersmetingen",
+  "site": "site-skeleton/verkeersmetingen-im",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
 }
 ]
