@@ -3,7 +3,7 @@
   "name": "Verkeersmetingen-im",
   "type": "ap",
   "eap": "Verkeersmetingen-IM.eap",
-  "diagram": "VSDS-Verkeerstelling",
+  "diagram": "VSDS-Verkeersmetingen",
   "template": "mijn-implementatiemodel-im.j2",
   "title": "Implementatiemodel Verkeersmetingen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
