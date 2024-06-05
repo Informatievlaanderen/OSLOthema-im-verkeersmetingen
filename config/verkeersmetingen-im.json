@@ -33,6 +33,39 @@
 },
 
 {
+  "name": "Kruispuntmetingen-im",
+  "type": "ap",
+  "eap": "Kruispuntmetingen-IM.eap",
+  "diagram": "OSLO-Kruispuntmetingen",
+  "template": "kruispuntmetingen-im.j2",
+  "title": "Implementatiemodel Kruispuntmetingen",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2024-06-05",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Verkeersmetingen",
+  "site": "site-skeleton/kruispuntmetingen-im",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+},
+  {
+  "name": "Kruispuntmetingen-im-voc",
+  "type": "voc",
+  "eap": "Kruispuntmetingen-IM.eap",
+  "diagram": "OSLO-Kruispuntmetingen",
+  "template": "voc-im-verkeersmetingen.j2",
+  "title": "Vocabularium Implementatiemodel Kruispuntmetingen",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2024-06-05",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Verkeersmetingen",
+  "site": "site-skeleton/kruispuntmetingen-im",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+},
+
+{
   "name": "Verkeersmetingen-im-verzameling",
   "type": "ap",
   "eap": "Verkeersmetingen-IM-verzameling.eap",
