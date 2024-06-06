@@ -33,7 +33,7 @@
 },
 
 {
-  "name": "Kruispuntmetingen-im",
+  "name": "kruispuntmetingen-im",
   "type": "ap",
   "eap": "Kruispuntmetingen-IM.eap",
   "diagram": "OSLO-Kruispuntmetingen",
@@ -49,7 +49,7 @@
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
 },
   {
-  "name": "Kruispuntmetingen-im-voc",
+  "name": "kruispuntmetingen-im-voc",
   "type": "voc",
   "eap": "Kruispuntmetingen-IM.eap",
   "diagram": "OSLO-Kruispuntmetingen",
